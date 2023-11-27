@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "35dbeb9cebbd091f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e9a0b43136b5c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee09cc7bd37c43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "秘藏之馆的世界录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6eabad0aea70ff7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a812a8f0bcbc3bf0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c8063d6128f2e974",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0dd08e697b5aef3f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aea40e060312de41",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "189199ef8f97b8c0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d686adb5dfaa2391",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "秘藏之馆的世界录.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "96b2927847ab4aaf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "秘藏之馆的世界录.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "660d104d7d0d6aa7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "秘藏之馆的世界录.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "0ee09cc7bd37c43d",
+  "lastOpenFiles": [
+    "秘藏之馆的世界录.pdf",
+    "新诺阿动乱.md"
+  ]
+}
